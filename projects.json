@@ -1,29 +1,29 @@
 [
-        {
-            id: 1,
-            projectName: 'Speed Up Master',
-            details: 'Niche website including full controlled admin panel where admin can control...',
-            image: speedup,
-            livesite: 'https://speed-up-master.web.app/',
-            clientside: 'https://github.com/marufahamedp/speed-up-master-client-side',
-            serverside: 'https://github.com/marufahamedp/speed-up-master-server-side'
-        },
-        {
-            id: 2,
-            projectName: 'Toure Faster',
-            details: 'Ture service booking website including admin panel to add or remove services.',
-            image: tourefaster,
-            livesite: 'https://tourefaster.web.app/',
-            clientside: 'https://github.com/marufahamedp/Toure-Faster',
-            serverside: 'https://github.com/marufahamedp/Toure-Faster-Server'
-        },
-        {
-            id: 3,
-            projectName: '>Max Health House',
-            details: 'Health care service website including admin panel to add or remove services.',
-            image: maxhealth,
-            livesite: 'https://maxhealthhouse.web.app/',
-            clientside: 'https://github.com/marufahamedp/Max-Healthcare-House',
-            serverside: 'https://github.com/marufahamedp/Max-health-server'
-        }
-    ]
+    {
+        "id": 1,
+        "projectName": "Speed Up Master",
+        "details": "Niche website including full controlled admin panel where admin can control...",
+        "image": "https://i.ibb.co/rMvNK33/speedup.png",
+        "livesite": "https://speed-up-master.web.app/",
+        "clientside": "https://github.com/marufahamedp/speed-up-master-client-side",
+        "serverside": "https://github.com/marufahamedp/speed-up-master-server-side"
+    },
+    {
+        "id": 2,
+        "projectName": "Toure Faster",
+        "details": "Ture service booking website including admin panel to add or remove services.",
+        "image": "https://i.ibb.co/7JQs81P/tourefaster.png",
+        "livesite": "https://tourefaster.web.app/",
+        "clientside": "https://github.com/marufahamedp/Toure-Faster",
+        "serverside": "https://github.com/marufahamedp/Toure-Faster-Server"
+    },
+    {
+        "id": 3,
+        "projectName": ">Max Health House",
+        "details": "Health care service website including admin panel to add or remove services.",
+        "image": "https://i.ibb.co/HDHjxR3/maxhealth.png",
+        "livesite": "https://maxhealthhouse.web.app/",
+        "clientside": "https://github.com/marufahamedp/Max-Healthcare-House",
+        "serverside": "https://github.com/marufahamedp/Max-health-server"
+    }
+]
